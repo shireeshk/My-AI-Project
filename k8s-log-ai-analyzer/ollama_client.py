@@ -3,7 +3,7 @@ import requests
 
 def ask_ollama(
     prompt: str,
-    model: str = "llama3.1:8b",
+    model: str = "llama3.2:1b",
     host: str = "http://localhost:11434",
 ):
 
