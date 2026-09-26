@@ -1,0 +1,5 @@
+2026-09-25T20:11:01Z INFO Starting analytics-worker
+2026-09-25T20:11:05Z INFO Loading dataset
+2026-09-25T20:11:15Z INFO Dataset size: 4.8 GB
+2026-09-25T20:11:21Z ERROR Java heap allocation failed
+2026-09-25T20:11:22Z FATAL Process terminated

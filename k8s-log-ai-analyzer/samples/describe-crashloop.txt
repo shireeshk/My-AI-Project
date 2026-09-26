@@ -1,0 +1,19 @@
+Name:         payment-service-7d8c7f9f5d-x2k7p
+Namespace:    production
+Status:       Running
+
+Containers:
+  payment-service:
+    Image:          company/payment-service:2.4.1
+    State:          Waiting
+      Reason:       CrashLoopBackOff
+    Last State:     Terminated
+      Reason:       Error
+      Exit Code:    1
+    Restart Count:  17
+
+Events:
+  Type     Reason     Message
+  ----     ------     -------
+  Normal   Started    Started container payment-service
+  Warning  BackOff    Back-off restarting failed container

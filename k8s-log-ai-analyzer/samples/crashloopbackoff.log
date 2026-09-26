@@ -1,0 +1,6 @@
+2026-09-25T20:01:11Z INFO Starting payment-service
+2026-09-25T20:01:12Z INFO Loading configuration
+2026-09-25T20:01:12Z ERROR DATABASE_URL environment variable is missing
+2026-09-25T20:01:12Z FATAL Unable to initialize database connection
+2026-09-25T20:01:12Z ERROR Application startup failed
+2026-09-25T20:01:12Z INFO Process exited with code 1

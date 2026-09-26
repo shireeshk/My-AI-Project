@@ -1,0 +1,12 @@
+Warning Failed
+Failed to pull image "company/payment-service:9.9.99"
+
+rpc error:
+code = NotFound
+
+message = failed to resolve reference:
+company/payment-service:9.9.99
+
+manifest unknown
+
+Back-off pulling image

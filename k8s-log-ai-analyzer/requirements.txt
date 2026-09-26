@@ -1,0 +1,12 @@
+streamlit>=1.38
+pandas>=2.2
+requests>=2.32
+
+langchain>=0.3
+langchain-community>=0.3
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-ollama>=0.2
+langchain-chroma>=0.1
+
+chromadb>=0.5
